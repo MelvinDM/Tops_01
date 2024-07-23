@@ -1,0 +1,10 @@
+RegionId,RegionName,QuadrantId,RegionManagerId
+1,"East Anglia",3,6
+2,"East Midlands",3,7
+3,London,2,11
+4,North,1,12
+5,"North West",1,13
+6,"South East",2,10
+7,"South West",4,8
+8,"West Midlands",4,9
+9,"Yorkshire & Humberside",1,14

@@ -1,0 +1,441 @@
+StoreId,StoreName,CentreId
+1,"Pavilion Shopping Centre - store A",1
+2,"Times Square Shopping Centre - store A",2
+3,"North Quay Retail Park - store A",3
+4,"Norman Park - store A",4
+5,"Crownhill Retail Park - store A",5
+6,"Whiteley Village Outlet Mall - store A",6
+7,"Cannon Park Shopping Centre - store A",7
+8,"Snipe Retail Park - store A",8
+9,"Abbey Wood Retail Park - store A",9
+10,"Mayflower Retail Park - store A",10
+11,"Ocean Park - store A",11
+12,"Kingsmead Shopping Centre - store A",12
+13,"Banbury Cross Retail Park - store A",14
+14,"Sundorne Retail Park - store A",15
+15,"Wellington Retail Park - store A",16
+16,"Morton Park - store A",17
+17,"Castle Vale Retail Park - store A",18
+18,"Old George Mall - store A",19
+19,"The Nicholson's Centre - store A",20
+20,"Anglia Retail Park - store A",21
+21,"Crown Wharf Shopping Park - store A",22
+22,"Great Eastern Way Retail Park - store A",23
+23,"Metro Park West - store A",24
+24,"The Longford Shopping Centre - store A",25
+25,"Southgate Shopping Centre - store A",26
+26,"Riverside Retail Park - store A",27
+27,"Peel Centre - store A",28
+28,"Wharton Retail Park - store A",29
+29,"Meridian Shopping Centre - store A",30
+30,"Metropolitan Centre - store A",31
+31,"South Wirral Retail Park - store A",32
+32,"Kingston Centre - store A",33
+33,"Pompey Centre - store A",34
+34,"Crompton Place Shopping Centre - store A",35
+35,"Kingswood Retail Park - store A",36
+36,"Martineau Place - store A",37
+37,"Market Centre - store A",38
+38,"Wellington Shopping Centre - store A",39
+39,"Gallagher Retail Park - store A",40
+40,"Friern Bridge Retail Park - store A",41
+41,"St Andrews Retail Park - store A",42
+42,"Cornmill Shopping Centre - store A",43
+43,"Cables Retail Park - store A",44
+44,"The Mall - store A",45
+45,"Solihull Retail Park - store A",46
+46,"Designer Outlet @ the Lowry - store A",47
+47,"Designer Outlet @ the Lowry - store B",47
+48,"Central Retail Park - store A",48
+49,"Barkers Arcade - store A",49
+50,"Peel Centre - store A",50
+51,"Ashford Retail Park - store A",51
+52,"Town Square Shopping Centre - store A",52
+53,"Ashford Designer Outlet - store A",53
+54,"Observatory Shopping Centre - store A",54
+55,"Beacon Shopping Centre - store A",55
+56,"Kirkby Shopping Centre - store A",56
+57,"Clarks Village - store A",57
+58,"The Hart Shopping Centre - store A",58
+59,"Saddlers Centre - store A",59
+60,"Castle Meadow Retail Park - store A",60
+61,"Meteor Centre - store A",61
+62,"The Belfry - store A",62
+63,"Wellington Square - store A",63
+64,"Chelmer Village Retail Park - store A",64
+65,"Tottenham Hale Retail Park - store A",65
+66,"Robin Retail Park - store A",66
+67,"West Quay Retail Park - store A",67
+68,"Gallagher Retail Park - store A",68
+69,"Mount Retail Park - store A",69
+70,"Vicarage Field - store A",70
+71,"The Crescent - store A",71
+72,"Junction One Retail and Leisure Park - store A",72
+73,"St Peters Way Shopping Centre - store A",73
+74,"Telford Bridge Retail Park - store A",74
+75,"The Marlands Shopping Centre - store A",75
+76,"St James Retail Park - store A",76
+77,"Regent Arcade Shopping Centre - store A",77
+78,"Forbury Retail Park - store A",78
+79,"The Junction East London - store A",79
+80,"Leeds Road Retail Park - store A",80
+81,"Thornaby Shopping Centre - store A",81
+82,"Meols Cop Retail Park - store A",82
+83,"Newlands Centre - store A",83
+84,"New Bond Street - store A",84
+85,"The Rushes - store A",85
+86,"Lakeside Extra Retail Park - store A",86
+87,"St Georges Shopping Centre - store A",87
+88,"Octagon Centre - store A",88
+89,"Reading Gate Retail Park - store A",89
+90,"Borehamwood Shopping Park - store A",90
+91,"Fulham Broadway - store A",91
+92,"Ryemarket Shopping Centre - store A",92
+93,"White City Retail Park - store A",93
+94,"Grays Shopping Centre - store A",94
+95,"Broadwalk Shopping Centre - store A",95
+96,"Dunmail Park Shopping Centre - store A",96
+97,"Newton Aycliffe Shopping Centre - store A",97
+98,"Swinton Shopping Centre - store A",98
+99,"Portland Walk Shopping Centre - store A",99
+100,"The Wulfrun Centre - store A",100
+101,"Riverside Retail Park - store A",101
+102,"Northgate Quarter - store A",102
+103,"Ellesmere Retail Park - store A",103
+104,"New Cathedral Street - store A",104
+105,"Millburngate Shopping Centre - store A",105
+106,"Phoenix Retail Park - store A",106
+107,"Princess Square Shopping Centre - store A",107
+108,"Harpur Centre - store A",108
+109,"Bath Road Retail Park - store A",109
+110,"Regent Walk - store A",110
+111,"Piazza Shopping Centre - store A",111
+112,"Darwin Shopping Centre - store A",112
+113,"Gallions Reach Shopping Park - store A",113
+114,"The Greyhound Retail Park - store A",114
+115,"Vancouver Centre - store A",115
+116,"Great Western Designer Outlet - store A",116
+117,"Great Western Designer Outlet - store B",116
+118,"Festival Retail Park - store A",117
+119,"Lion Walk Shopping Centre - store A",118
+120,"Riverside Retail Park - store A",119
+121,"Meadowhall Retail Park - store A",120
+122,"Lakeside Retail Park - store A",121
+123,"Ankerside Shopping Centre - store A",122
+124,"St George's Shopping Centre - store A",123
+125,"Westgate Retail and Leisure Park - store A",124
+126,"Retail Park At Cribbs Causeway - store A",125
+127,"Altrincham Retail Park - store A",126
+128,"Carlton Centre - store A",127
+129,"Prospect Place Retail Park - store A",128
+130,"Palace Gardens Shopping Centre - store A",129
+131,"Wheatley Centre - store A",130
+132,"Metro Retail Park - store A",131
+133,"West Orchards Shopping Centre - store A",132
+134,"Victoria Quarter - store A",133
+135,"The Foundry - store A",134
+136,"Hunts Cross Shopping Park - store A",135
+137,"Captain Cook Square - store A",136
+138,"Vicar Lane Shopping Centre - store A",137
+139,"Cambridge Retail Park - store A",138
+140,"The Junction Sheffield - store A",139
+141,"The Killingworth Centre - store A",140
+142,"The Gallagher Retail Park - store A",141
+143,"Leyton Mills - store A",142
+144,"Belle Vale Shopping Centre - store A",143
+145,"The Mall - store A",144
+146,"Viking Shopping Centre - store A",145
+147,"Cortonwood Retail Park - store A",146
+148,"Queensgate Centre Retail Park - store A",147
+149,"Handforth Dean Centre - store A",148
+150,"Wolsey Place Shopping Centre - store A",149
+151,"The Galleries Shopping Centre - store A",150
+152,"Queen's Square Shopping Centre - store A",151
+153,"Birchwood Shopping Centre - store A",152
+154,"Four Seasons Shopping Centre - store A",153
+155,"Brookfield Centre (Tesco) - store A",154
+156,"North Point Shopping Centre - store A",155
+157,"Westgate Shopping Centre - store A",156
+158,"Hill Street Centre - store A",157
+159,"Holmbush Farm - store A",158
+160,"Silverlink Retail & Leisure Park - store A",159
+161,"Cleveland Retail Park - store A",160
+162,"Peel Centre - store A",161
+163,"Interchange Retail Park - store A",162
+164,"Forster Square Retail Park - store A",163
+165,"County Square Shopping Centre - store A",164
+166,"The Quedam Shopping Centre - store A",165
+167,"Howard Centre - store A",166
+168,"Charter Place Shopping Centre - store A",167
+169,"The Square - store A",168
+170,"The Mall Romford - store A",169
+171,"Pride Hill Shopping Centre - store A",170
+172,"The Boardwalk - store A",171
+173,"Wolstanton Retail Park - store A",172
+174,"Victoria Retail Park - store A",173
+175,"Racecourse Retail Park - store A",174
+176,"The Pallasades Shopping Centre - store A",175
+177,"Mcarthurglen Designer Outlet York - store A",176
+178,"Mcarthurglen Designer Outlet York - store B",176
+179,"Green Oaks Shopping Centre - store A",177
+180,"Elmsleigh Centre - store A",178
+181,"Ravenhead Park - store A",179
+182,"The Maltings Shopping Centre - store A",180
+183,"The Royals Shopping Centre - store A",181
+184,"Hedge End Park - store A",182
+185,"The Parishes - store A",183
+186,"Clock Towers Shopping Centre - store A",184
+187,"Kennet Centre - store A",185
+188,"Edge Lane Retail Park - store A",186
+189,"Crossley Park Retail Park - store A",187
+190,"The Airedale Shopping Centre - store A",188
+191,"Swan Walk - store A",189
+192,"Eastgate Shopping Centre - store A",190
+193,"Manor Walks Shopping Centre - store A",191
+194,"Freeport Designer Outlet Village - store A",192
+195,"Stamford Shopping Centre - store A",193
+196,"Friars Square Shopping Centre - store A",194
+197,"High Chelmer Shopping Centre - store A",195
+198,"Blackburn Retail Park - store A",196
+199,"The Parade Centre - store A",197
+200,"Crown Point Retail Park - store A",198
+201,"The Junction Wembley - store A",199
+202,"The Fort Shopping Park - store A",200
+203,"Woolshops Shopping Centre - store A",201
+204,"Haymarket Shopping Centre - store A",202
+205,"The Bridges Shopping Centre - store A",203
+206,"Kingsgate Centre - store A",204
+207,"Templars Square Shopping Centre - store A",205
+208,"Cathedral Plaza - store A",206
+209,"Millgate Shopping Centre - store A",207
+210,"Millgate Shopping Centre - store B",207
+211,"Elk Mill Retail Park - store A",208
+212,"Buttermarket Shopping Centre - store A",209
+213,"Winsford Cross Shopping Centre - store A",210
+214,"Monks Cross Shopping Park - store A",211
+215,"O2 - store A",212
+216,"The Chantry Centre - store A",213
+217,"Surrey Quays Shopping Centre - store A",214
+218,"Ealing Broadway Centre - store A",215
+219,"Headrow Shopping Centre - store A",216
+220,"Eden Walk Shopping Centre - store A",217
+221,"Lower Precinct Shopping Centre - store A",218
+222,"Whiteleys Shopping & Leisure Centre - store A",219
+223,"Treaty Centre - store A",220
+224,"St Ann's Shopping Centre - store A",221
+225,"Priory Square Shopping Centre - store A",222
+226,"Selborne Walk Shopping Centre - store A",223
+227,"Telford Forge Retail Park - store A",224
+228,"Priory Meadow Shopping Centre - store A",225
+229,"Weston Favell Shopping Centre - store A",226
+230,"Stratford Centre - store A",227
+231,"Clayton Square Shopping Centre - store A",228
+232,"Salford Shopping City - store A",229
+233,"Bolton Gate Retail Park - store A",230
+234,"Middleton Shopping Centre - store A",231
+235,"Broughton Shopping Park - store A",232
+236,"Serpentine Green Shopping Centre - store A",233
+237,"Crowngate Shopping Centre - store A",234
+238,"Cockhedge Shopping Park - store A",235
+239,"Ventura Retail Park - store A",236
+240,"Victoria Plaza Shopping Centre - store A",237
+241,"Ellesmere Shopping Centre - store A",238
+242,"Ellesmere Shopping Centre - store B",238
+243,"The Mall Ilford - store A",239
+244,"Princes Quay Shopping Centre - store A",240
+245,"Princes Quay Shopping Centre - store B",240
+246,"The Water Gardens - store A",241
+247,"Guildhall Shopping Centre - store A",242
+248,"Swan Centre - store A",243
+249,"Market Place Shopping Centre - store A",244
+250,"The Malls - store A",245
+251,"Golden Square Shopping Centre - store A",246
+252,"Greenbridge Retail Park - store A",247
+253,"St George's Shopping Centre - store A",248
+254,"Roaring Meg Retail Park - store A",249
+255,"Prospect Shopping Centre - store A",250
+256,"Freeport Braintree Outlet Village - store A",251
+257,"Deepdale Shopping Park - store A",252
+258,"Church Square Shopping Centre - store A",253
+259,"Centre Court Shopping Centre - store A",254
+260,"Beaumont Shopping Centre - store A",255
+261,"Swansgate Centre - store A",256
+262,"Queensmere Shopping Centre - store A",257
+263,"Rochdale Exchange Shopping Centre - store A",258
+264,"West 12 Shopping and Leisure - store A",259
+265,"Pentagon Centre - store A",260
+266,"Beehive Centre - store A",261
+267,"Galleries Shopping Centre - store A",262
+268,"Galleries Shopping Centre - store B",262
+269,"Grosvenor Centre - store A",263
+270,"The Galleria - store A",264
+271,"The Coliseum - store A",265
+272,"Concourse Shopping Centre - store A",266
+273,"Lewisham Shopping Centre - store A",267
+274,"Gunwharf Quays - store A",268
+275,"Fishergate Shopping Centre - store A",269
+276,"Weavers Wharf - store A",270
+277,"Arndale Centre - store A",271
+278,"Arndale Centre - store B",271
+279,"Culver Shopping Centre - store A",272
+280,"One Stop Shopping Centre - store A",273
+281,"Kings Mall Shopping Centre - store A",274
+282,"The Ridings Shopping Centre - store A",275
+283,"Gallagher Retail Park - store A",276
+284,"Gemini Retail Park - store A",277
+285,"Royal Victoria Place Shopping Centre - store A",278
+286,"Merseyway Shopping Centre - store A",279
+287,"The Light - store A",280
+288,"The Ashley Shopping Centre - store A",281
+289,"Crystal Peaks Shopping Centre - store A",282
+290,"The Marlowes Shopping Centre - store A",283
+291,"Lakeside Retail Park - store A",284
+292,"Orbital Shopping Park - store A",285
+293,"Castlegate Shopping Centre - store A",286
+294,"St John's Shopping Centre - store A",287
+295,"Hempstead Valley Shopping Centre - store A",288
+296,"Main Square Shopping Centre - store A",289
+297,"St Marks Shopping Park - store A",290
+298,"Port Arcades - store A",291
+299,"Retail World Retail Park - store A",292
+300,"St Nicholas Shopping Centre - store A",293
+301,"Kirkgate Centre - store A",294
+302,"Fremlin Walk - store A",295
+303,"Two Rivers - store A",296
+304,"Leeds Shopping Plaza - store A",297
+305,"Chelmsley Wood Shopping Centre - store A",298
+306,"Teesside Retail Park - store A",299
+307,"Castle Quay Shopping Centre - store A",300
+308,"Coopers Square Shopping Centre - store A",301
+309,"Imperial Park - store A",302
+310,"Pavilions Shopping Centre - store A",303
+311,"Corby Town Centre - store A",304
+312,"Corby Town Centre - store B",304
+313,"Castle Mall Shopping Centre - store A",305
+314,"Broad Street Mall - store A",306
+315,"Birtles Shopping Centre - store A",307
+316,"Castle Dene Shopping Centre - store A",308
+317,"Castle Dene Shopping Centre - store B",308
+318,"Freshney Place Shopping Centre - store A",309
+319,"Whitefriars Shopping Centre - store A",310
+320,"Strand Shopping Centre - store A",311
+321,"Strand Shopping Centre - store B",311
+322,"The Broadway Shopping Centre - store A",312
+323,"Cheshire Oaks Designer Outlet - store A",313
+324,"Cheshire Oaks Designer Outlet - store B",313
+325,"The Junction Hull - store A",314
+326,"Yate Shopping Centre - store A",315
+327,"Yate Shopping Centre - store B",315
+328,"The Chimes Shopping Centre - store A",316
+329,"Cascades Shopping Centre - store A",317
+330,"Arndale Centre - store A",318
+331,"Grafton Centre - store A",319
+332,"The Glades Shopping Centre - store A",320
+333,"The Glades Shopping Centre - store B",320
+334,"Fosse Shopping Park - store A",321
+335,"Midsummer Place - store A",322
+336,"Cleveland Shopping Centre - store A",323
+337,"Harvey Centre - store A",324
+338,"Mell Square - store A",325
+339,"The Grange Shopping Centre - store A",326
+340,"The Grange Shopping Centre - store B",326
+341,"County Mall Shopping Centre - store A",327
+342,"County Mall Shopping Centre - store B",327
+343,"Charter Walk Shopping Centre - store A",328
+344,"Churchill Square Shopping Centre - store A",329
+345,"Broadmarsh Shopping Centre - store A",330
+346,"Fareham Shopping Centre - store A",331
+347,"New Mersey Retail Park - store A",332
+348,"The Spindles Shopping Centre - store A",333
+349,"The Liberty Shopping Centre - store A",334
+350,"Dolphin Shopping Centre - store A",335
+351,"Dolphin Shopping Centre - store B",335
+352,"Halton Lea Shopping Centre - store A",336
+353,"Chequers Shopping Centre - store A",337
+354,"The Lanes Shopping Centre - store A",338
+355,"The Mander Centre - store A",339
+356,"The Mander Centre - store B",339
+357,"The Peacocks - store A",340
+358,"Gracechurch Shopping Centre - store A",341
+359,"Merrion Centre - store A",342
+360,"The Brewery - store A",343
+361,"Shopping City - store A",344
+362,"Clifton Moor Centre - store A",345
+363,"Southside - store A",346
+364,"Southside - store B",346
+365,"The Galleries Shopping Centre - store A",347
+366,"The Shires Shopping Centre - store A",348
+367,"Eagle Centre - store A",349
+368,"Whitgift Shopping Centre - store A",350
+369,"Whitgift Shopping Centre - store B",350
+370,"Middleton Grange Shopping Centre - store A",351
+371,"Middleton Grange Shopping Centre - store B",351
+372,"The Potteries Shopping Centre - store A",352
+373,"Brunel Shopping Centre - store A",353
+374,"Brunel Shopping Centre - store B",353
+375,"Chapelfield - store A",354
+376,"Retail World - store A",355
+377,"Middlebrook Sports & Retail Village - store A",356
+378,"Edmonton Green Shopping Centre - store A",357
+379,"Edmonton Green Shopping Centre - store B",357
+380,"The Bentall Centre - store A",358
+381,"Castlepoint - store A",359
+382,"White Rose Shopping Centre - store A",360
+383,"Blackburn Shopping Centre - store A",361
+384,"Blackburn Shopping Centre - store B",361
+385,"Touchwood - store A",362
+386,"The Oracle Shopping Centre - store A",363
+387,"The Oracle Shopping Centre - store B",363
+388,"The Eastgate Shopping Centre - store A",364
+389,"The Eastgate Shopping Centre - store B",364
+390,"The Harlequin - store A",365
+391,"The Harlequin - store B",365
+392,"Frenchgate Shopping Centre - store A",366
+393,"Frenchgate Shopping Centre - store B",366
+394,"Queensgate Shopping Centre - store A",367
+395,"Telford Shopping Centre - store A",368
+396,"Telford Shopping Centre - store B",368
+397,"Arndale Shopping Centre - store A",369
+398,"Arndale Shopping Centre - store B",369
+399,"Centrale - store A",370
+400,"West Quay Shopping Centre - store A",371
+401,"Victoria Shopping Centre - store A",372
+402,"Victoria Shopping Centre - store B",372
+403,"Brent Cross Shopping Centre - store A",373
+404,"Brent Cross Shopping Centre - store B",373
+405,"Festival Place - store A",374
+406,"Festival Place - store B",374
+407,"The Mall At Cribbs Causeway - store A",375
+408,"The Mall At Cribbs Causeway - store B",375
+409,"Kingfisher Shopping Centre - store A",376
+410,"Kingfisher Shopping Centre - store B",376
+411,"Eldon Square Shopping Centre - store A",377
+412,"Eldon Square Shopping Centre - store B",377
+413,"Bullring - store A",378
+414,"Bullring - store B",378
+415,"Arndale Centre - store A",379
+416,"Arndale Centre - store B",379
+417,"Arndale Centre - store C",379
+418,"Thecentre:mk - store A",380
+419,"Thecentre:mk - store B",380
+420,"Lakeside - store A",381
+421,"Lakeside - store B",381
+422,"Lakeside - store C",381
+423,"Lakeside - store D",381
+424,"The Trafford Centre - store A",382
+425,"The Trafford Centre - store B",382
+426,"The Trafford Centre - store C",382
+427,"Meadowhall - store A",383
+428,"Meadowhall - store B",383
+429,"Meadowhall - store C",383
+430,"Bluewater - store A",384
+431,"Bluewater - store B",384
+432,"Bluewater - store C",384
+433,"Bluewater - store D",384
+434,"Merry Hill - store A",385
+435,"Merry Hill - store B",385
+436,"Merry Hill - store C",385
+437,"Metrocentre - store A",386
+438,"Metrocentre - store B",386
+439,"Metrocentre - store C",386
+440,"Metrocentre - store D",386

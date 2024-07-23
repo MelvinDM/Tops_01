@@ -1,0 +1,9 @@
+AnimalId,AnimalName,SpeciesId,Legs
+1,Sheep,1,4
+2,Cat,1,4
+3,Tiger,1,4
+4,Penguin,2,2
+5,Owl,2,2
+6,Snake,3,0
+7,Crocodile,3,4
+8,Frog,4,4

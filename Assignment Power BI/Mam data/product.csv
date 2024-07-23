@@ -1,0 +1,14 @@
+ProductId,ProductName,AnimalId,FullPrice,TargetGenderId,AgeRangeId
+1,"The Emperor",4,19.99,1,4
+2,Wol,5,3.95,2,2
+3,Slithery,6,7.5,1,3
+4,Crocky,7,11.5,1,3
+5,Fred,8,8.99,3,1
+6,Snowy,2,4.75,3,2
+7,Tigger,3,8.85,3,2
+8,Sean,1,5.5,1,2
+9,Pingu,4,12,3,2
+10,Speccles,5,10,3,3
+11,Possum,2,7.75,3,1
+12,Woolly,1,8,3,1
+13,Simon,6,15,3,4
